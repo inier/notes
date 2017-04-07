@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dd9454e-bbc3-4454-841c-50da25e74925" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/animation-height-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/animation-height.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/animation-transform-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/animation-transform.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/blockingio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/computed1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/computed2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/computed3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/computed4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop-11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/event-loop.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/eventloop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/fe-tech-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex-more-9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/flex9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/h2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/karma-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/node-buffer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/node-events.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/node-streams.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/nonblockingio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/ping.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/qiniu-chrome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/rubik-contents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/rubik-example.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/trapezoid1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/trapezoid2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/zebra-line-code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/zebra-line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/zh-comments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/zh-date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/zh-detail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/zh-index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/前端工程技术体系.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/Pics/深入理解计算属性.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/cheat sheet/ES.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/cheat sheet/ES.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/cheat sheet/ES1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/cheat sheet/ES2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/cheat sheet/ES3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/cheat sheet/ES4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/cheat sheet/ES5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/cheat sheet/ES6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/header_push.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/html_src.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/img_optimize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/load.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/mobile_css_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/mobile_css_id_sel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/mobile_css_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/mobile_css_tiny_gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/mobile_load.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/preload.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/preload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timeline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timeline2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timing_avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timing_css.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timing_html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timing_js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timing_nr-data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timing_push.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/timing_pusher.min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/uncode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/加载.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/页面加载_application-js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/页面加载_avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/assets/页面加载_js-css.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img-after/icon-grid-view-02507b800135df4fb005fbf551094e4a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img-after/icon-info-b4ed7616c79aee13aa695924159795c1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img-after/icon-list-view-22d5b12df4f6fd976745f9d6e8848605.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img-after/icon-search-7e05fab5a06336952c0b3b36a76e4b4c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img-after/init-calendar-event.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img-after/loading-198fd3a5b6951c551773575ecc80b1c8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img-after/loading-huge-e335562dfcacc6ad4c14cec75cd71487.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img-after/logo-dark-f8b0cf6e40c6eee515a7dc72cc9c5807.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img/icon-grid-view-02507b800135df4fb005fbf551094e4a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img/icon-info-b4ed7616c79aee13aa695924159795c1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img/icon-list-view-22d5b12df4f6fd976745f9d6e8848605.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img/icon-search-7e05fab5a06336952c0b3b36a76e4b4c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img/init-calendar-event.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img/loading-198fd3a5b6951c551773575ecc80b1c8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img/loading-huge-e335562dfcacc6ad4c14cec75cd71487.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/img/logo-dark-f8b0cf6e40c6eee515a7dc72cc9c5807.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/images/rubik_128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/images/rubik_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/images/rubik_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/images/rubik_64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/images/rubik_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/rubik_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/img/pages.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/img/range.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/notes.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/01.mobile-tips.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/02.css layout debug.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/03. XMLHttpRequest对象.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/04.[译]关于HTTPS的7大谜团.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/05.关于 .bash_profile和.bashrc.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/06.使用crontab做定时服务.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/07.移动开发常用head标签.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/08.javascript函数惰性载入.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/09.[译]javascript必知必会+理解总结.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/10.关于 position sticky.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/11.[译]javascript中的this详解.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/12.再读阮一峰老师的 javascript 教程.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/13.网站开发人员应该知道的62件事.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/14.使用 ~ 和 indexOf 来判断一个元素是否在数组中.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/15.[译]JavaScript的核心.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/16.我所理解的代码质量.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/18. [笔记] Linux 重装 PHP.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/19.简单了解的 HTML5 WebRTC.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/20.Node.js 使用 fs 模块做文件 copy 的四种方法 .md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/21.优化 CSS 动画性能.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/22.远程文件批量下载 Node&amp;Ruby.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/23.从前端角度对 tower.im 进行的性能分析.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/24.Mac下给SD卡安装树莓派Raspbian系统.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/26.毛玻璃.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/28.画个梯形.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/29.ES6 笔记一.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/30.ES6 笔记二.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/31.Babel的一个BUG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/32.给文字加上下划线.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/33.整理下我的前端知识结构.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/34.ES6 笔记三-Promise.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/35.HTTP_2 + Node.js.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/36.一晚上写个上传图片到七牛的chrome扩展.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/37.需要搞懂的Node.js的核心Feature.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/38.给文本画上斑马线.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/39.写一个支持Node.js&amp;浏览器的自定义事件库.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/40.ES6 笔记四.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/41.两张图解释CSS动画的性能.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/42.洗牌算法(shuffle)的js实现.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/43.爬了知乎日报十多万条数据.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/44.理解事件循环一(浅析).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/45.理解事件循环二(MacroTask和MicroTask).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/46.ES6_7 Cheat Sheet.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/47.前端技术工程体系和结构总结.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/48.帮学弟做题--WebSocket和Vue的五子棋.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/49.深入理解 Vue.js 的计算属性.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/50.Material Design 风格的 Vue.js UI 组件库 beta 版本发布.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/51.Vue.js 组件库 Rubik UI 开发心得总结.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/52.2016-这一年的总结和随想.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/53.图解 Flexbox.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/54.Vue.js 项目使用 Karma 做自动化UI测试小结.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/55.[函数式编程]不用循环的JavaScript.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/56. 图解Flexbox2 - 深入理解.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/bash/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/bash/bash.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/git/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/git/autoPush.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/git/gitconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/git/gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/node-http-proxy.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/HTML5_camera/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/HTML5_camera/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/RGB2HEX/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/RGB2HEX/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/URLParse/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/URLParse/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/chess/chess-connect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/chess/chess.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/chess/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/chess/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/computed/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/countdown/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/countdown/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/css3/anim.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/css3/css3-play.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/css3/requestAnimationFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/cssreset/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/date/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/date/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/date/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/date/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/date/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/date/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/download/down.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/download/down.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/download/img.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/h2-node/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/h2-node/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/h2-node/server.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/h2-node/server.csr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/h2-node/server.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/mobileConsole/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/mobileConsole/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/mobileConsole/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/pagination/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/pagination/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/promise/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/promise/example-new.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/promise/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/promise/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo/simple-template/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tower_Performance/Timeline.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/canvas/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/assets/content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/assets/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/assets/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/assets/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/content_script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/fresh/popup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/assets/content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/assets/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/assets/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/assets/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/assets/refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/content_script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chrome-extension/startup/popup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/jquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/jquery/jquery-2.0.3-src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/jquery/jquery-2.0.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/no-refresh/file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/no-refresh/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/no-refresh/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/no-refresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/no-refresh/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/no-refresh/refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/no-refresh/test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/no-refresh/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php-fpm/php-fpm.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shake/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shake/shake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/storage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/.babellrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/dist/vue-pages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/example/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/src/index.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-pages/webpack.config.prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/.babellrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/dist/vue-range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/example/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/src/index.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-range/webpack.config.prod.js" />
+    </list>
+    <ignored path="notes.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="notes" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dd9454e-bbc3-4454-841c-50da25e74925" name="Default" comment="" />
+      <created>1488765903855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488765903855</updated>
+      <workItem from="1488765906097" duration="1134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1134000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
