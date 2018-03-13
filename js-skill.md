@@ -1,4 +1,7 @@
+页面刷新技巧
+
 ## 页面跳转
+
 1. Javascript 返回上一页 history.go(-1), 返回两个页面: history.go(-2); 
 
 2. history.back(). 
